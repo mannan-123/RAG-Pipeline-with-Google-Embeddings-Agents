@@ -1,4 +1,4 @@
-# 🧠 LangChain-Pinecone RAG Pipeline with Google Embeddings & Agents
+# 🧠 RAG Pipeline with Google Embeddings & Agents
 
 This repository demonstrates how to build a Retrieval-Augmented Generation (RAG) pipeline using [LangChain](https://www.langchain.com/), [Pinecone](https://www.pinecone.io/), Google Generative AI embeddings, and intelligent agents. The use case involves question-answering over documents, specifically a sample PDF from UET Lahore, with conversational memory and agentic decision-making via custom tools.
 
